@@ -1,7 +1,7 @@
 # HealthTracker
 
 #Live
-[https://health-hustle.vercel.app/](https://fyle-health-tracker-tau.vercel.app/)
+(https://fyle-health-tracker-tau.vercel.app/)
 
 Assignment for Frontend Development Challenge July, 2024.
 
